@@ -1,4 +1,4 @@
-# islam_quiz
+# quiz
 
 A new Flutter project.
 
